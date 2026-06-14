@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(composer --version)",
+      "Bash(php --version)",
+      "Bash(php -m)",
+      "Bash(npm --version)",
+      "Bash(gh auth *)",
+      "PowerShell(gh *)",
+      "Bash(git config *)",
+      "Bash(git --version)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
